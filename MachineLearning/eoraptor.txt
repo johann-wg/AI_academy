@@ -1,0 +1,15 @@
+에오랍토르 화석 데이터셋입니다.
+
+case : 인덱스 번호
+site : 발굴 위치
+sex : 에오랍토르의 성별
+age : 에오랍토르의 나이
+head_length : 머리 길이
+skull_width : 두개골 폭
+total_length : 총 길이
+tail_length : 꼬리 길이
+foot_length : 발 길이
+earconch : 귀 주변 뼈 직경
+eye : 눈 주변 뼈 직경
+chest : 흉통 직경
+belly : 골반 직경
